@@ -1,5 +1,8 @@
 This is a simple todos app built with react hooks. A user can add a todo, check a todo as complete and clear all complete todos and the app persists our todos data in the local storage.
 
+## Demo
+You can try out the app using this link; [simple-react-todos-app](https://react-simple-todos-app.netlify.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
